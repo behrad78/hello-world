@@ -1,4 +1,4 @@
-// Author YourName
+// Behrad, Awf
 // Description:Hello World in C++
 //============================================================
 //main
